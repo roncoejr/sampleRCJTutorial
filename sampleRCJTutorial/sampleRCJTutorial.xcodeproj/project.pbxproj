@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E4B4BAEE1E62636300D181FF /* sampleRCJTutorial_webhook.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sampleRCJTutorial_webhook.py; sourceTree = "<group>"; };
+		E4B4BAEF1E6263D400D181FF /* sampleRCJTutorial.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sampleRCJTutorial.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E4B4BAE71E62633B00D181FF = {
 			isa = PBXGroup;
 			children = (
-				E4B4BAEE1E62636300D181FF /* sampleRCJTutorial_webhook.py */,
+				E4B4BAEF1E6263D400D181FF /* sampleRCJTutorial.py */,
 			);
 			sourceTree = "<group>";
 		};
